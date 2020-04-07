@@ -1,0 +1,13 @@
+name: DSendNotice
+api:
+ - 3.11.0
+ - 3.0.0
+ - 4.0.0
+main: DIA\main
+version: 0.1.0
+author: DOKIDIA_YT
+description: Send Notificaiton to players in your server.
+
+commands:
+  notification:
+    description: Send notification to all player.
